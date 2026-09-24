@@ -1,0 +1,20 @@
+{
+  "name": "NTG Dark",
+  "colors": {
+    "background": "#111820",
+    "road": "#E8EDF2",
+    "primaryAccent": "#7BBDE9",
+    "rockGrey": "#6E747A",
+    "city": "#FFFFFF",
+    "cityHalo": "#111820",
+    "prefabLight": "#48525B",
+    "prefabDark": "#2B333B",
+    "prefabGreen": "#2B423D"
+  },
+  "labels": {
+    "fontFamily": "Segoe UI",
+    "fontSize": 11,
+    "fontStyle": "Semibold",
+    "halo": true
+  }
+}
